@@ -159,29 +159,37 @@
       <option name="project" value="LOCAL" />
       <updated>1602800510272</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Implemented an Intent to launch a MapView that show the direction to a location passed">
+      <created>1602801177967</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602801177967</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Implemented an Intent to launch InfoActivity from MainActivity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented an Intent to launch InfoActivity from MainActivity" />
+    <MESSAGE value="Implemented an Intent to launch a MapView that show the direction to a location passed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented an Intent to launch a MapView that show the direction to a location passed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="240" y="46" key="#Gradle" timestamp="1602799628829">
       <screen x="0" y="25" width="1280" height="718" />
     </state>
     <state x="240" y="46" key="#Gradle/0.25.1280.718@0.25.1280.718" timestamp="1602799628829" />
-    <state x="145" y="25" key="CommitChangelistDialog2" timestamp="1602800509482">
+    <state x="145" y="25" key="CommitChangelistDialog2" timestamp="1602801177597">
       <screen x="0" y="25" width="1280" height="718" />
     </state>
-    <state x="145" y="25" key="CommitChangelistDialog2/0.25.1280.718@0.25.1280.718" timestamp="1602800509482" />
+    <state x="145" y="25" key="CommitChangelistDialog2/0.25.1280.718@0.25.1280.718" timestamp="1602801177597" />
     <state x="480" y="311" key="Github.Dialog.Accounts.Choose" timestamp="1602800549735">
       <screen x="0" y="25" width="1280" height="718" />
     </state>
     <state x="480" y="311" key="Github.Dialog.Accounts.Choose/0.25.1280.718@0.25.1280.718" timestamp="1602800549735" />
-    <state x="240" y="121" key="Vcs.Push.Dialog.v2" timestamp="1602800524682">
+    <state x="240" y="121" key="Vcs.Push.Dialog.v2" timestamp="1602801184934">
       <screen x="0" y="25" width="1280" height="718" />
     </state>
-    <state x="240" y="121" key="Vcs.Push.Dialog.v2/0.25.1280.718@0.25.1280.718" timestamp="1602800524682" />
+    <state x="240" y="121" key="Vcs.Push.Dialog.v2/0.25.1280.718@0.25.1280.718" timestamp="1602801184934" />
   </component>
 </project>
